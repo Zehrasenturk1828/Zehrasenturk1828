@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zehra Şentürk</h1>
 <h3 align="center">A passionate backend developer and QA Tester from Turkey</h3>
 
-- 🔭 I’m currently working on **Pyhton**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **creating test cases and scenarios, automation testing with selenium**
 
