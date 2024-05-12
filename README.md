@@ -2,11 +2,14 @@
 <h1 align="center">Hi 👋, I'm Zehra Şentürk</h1>
 <h3 align="center">A passionate backend developer and QA Tester from Turkey</h3>
 
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrNGx1bzdvbGRlc29hMzJzY2UwZ3VvMmJtY3RuYzdhNnlyNTRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif"  />
+
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **creating test cases and scenarios, automation testing with selenium**
 
 - 📫 How to reach me **zehrasenturk778@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
