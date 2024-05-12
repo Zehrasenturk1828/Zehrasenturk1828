@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehrasenturk1828&show_icons=true&locale=en" alt="zehrasenturk1828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehrasenturk1828&" alt="zehrasenturk1828" /></p>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Zehrasenturk1828&&style=flat-square)
+
+
