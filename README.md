@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **zehrasenturk778@gmail.com**
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrNGx1bzdvbGRlc29hMzJzY2UwZ3VvMmJtY3RuYzdhNnlyNTRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif"  />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zehra-senturk-a65a1a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zehra-senturk-a65a1a20a/" height="30" width="40" /></a>
