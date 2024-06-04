@@ -1,6 +1,5 @@
 ![github-header-image (1)](https://github.com/Zehrasenturk1828/Zehrasenturk1828/assets/102967619/f73aa61f-a502-45f0-bb61-1d80bfdb3977)
-<h1 align="center">Hi 👋, I'm Zehra Şentürk</h1>
-<h3 align="center">A passionate backend developer and QA Tester from Turkey</h3>
+<h3 align="center">A passionate Software Test Specialist from Turkey</h3>
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrNGx1bzdvbGRlc29hMzJzY2UwZ3VvMmJtY3RuYzdhNnlyNTRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif"  />
 
