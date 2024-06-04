@@ -1,11 +1,11 @@
 <img width="1834" alt="bannerforgithub" src="https://github.com/Zehrasenturk1828/Zehrasenturk1828/assets/102967619/4d56d0bb-e956-43a5-8496-e77bffc2f21e">
-<h3 align="center">A passionate Software Test Specialist from Turkey</h3>
+<!--<h3 align="center">A passionate Software Test Specialist from Turkey</h3>-->
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrNGx1bzdvbGRlc29hMzJzY2UwZ3VvMmJtY3RuYzdhNnlyNTRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif"  />
+<!--<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrNGx1bzdvbGRlc29hMzJzY2UwZ3VvMmJtY3RuYzdhNnlyNTRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif"  /> -->
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **creating test cases and scenarios, automation testing with selenium**
+- 🌱 I’m currently learning **creating test cases and scenarios, automation testing with Selenium, Python.**
 
 - 📫 How to reach me **zehrasenturk778@gmail.com**
 
