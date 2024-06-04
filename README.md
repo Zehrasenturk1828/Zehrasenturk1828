@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQFmlrdLsF0Trw/profile-displaybackgroundimage-shrink_350_1400/0/1661095874433?e=1716422400&v=beta&t=Be7KdWjSrlcIdMyOlz30ApA9_AW2FrPA--VdBreB_38)
+![MasterHead](![github-header-image (1)](https://github.com/Zehrasenturk1828/Zehrasenturk1828/assets/102967619/f73aa61f-a502-45f0-bb61-1d80bfdb3977)
+)
 <h1 align="center">Hi 👋, I'm Zehra Şentürk</h1>
 <h3 align="center">A passionate backend developer and QA Tester from Turkey</h3>
 
